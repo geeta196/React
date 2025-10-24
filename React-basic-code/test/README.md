@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,68 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# React Basic Projects Collection
-
-This repository contains a collection of basic React projects to learn core React concepts.  
-It includes the following projects:
-
-## 1️⃣ Counter
-**Description:**  
-A simple counter app with increment and decrement functionality.
-
-**Features:**  
-- Increment button  
-- Decrement button  
-
-
-**Folder:** `counter`
-
----
-
-## 2️⃣ Hook
-**Description:**  
-A project demonstrating the use of React Hooks for managing state and effects.
-
-**Features:**  
-- useState example  
-- useEffect example  
-- Custom Hooks usage  
-
-**Folder:** `hook`
-
----
-
-## 3️⃣ Props
-**Description:**  
-A project to demonstrate how to pass props in React.
-
-**Features:**  
-- Parent to Child data passing  
-- Reusable components  
-- Functional components example  
-
-**Folder:** `props`
-
----
-
-## 4️⃣ Basic
-**Description:**  
-A project showing the basic structure and concepts of React.
-
-**Features:**  
-- Functional components  
-- JSX usage  
-- Simple styling  
-
-**Folder:** `basic`
-
----
-
-## Installation & Usage
-
-1. Clone the repository:
-```bash
-git clone https://github.com/username/React-basic.git
-cd React-basic
->>>>>>> 632427d2998659f218c56c0a6d1ed64a6773da13

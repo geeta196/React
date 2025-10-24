@@ -1,0 +1,13 @@
+.main{
+  margin:auto;
+  width:300px;
+  height:500px;
+  background-color:blue;
+  box-shadow:7px 7px 7px 7px red;
+  border-radius:10px;
+
+}
+.heading{
+  text-align:center;
+ color:white; 
+}

@@ -1,0 +1,37 @@
+.light{
+  text-align: center;
+  
+}
+
+.bulb-on {
+  filter: brightness(1);
+  ;
+}
+
+.bulb-off {
+  filter: brightness(0.1);
+}
+
+.btn {
+  margin-top: 20px;
+}
+
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: hsl(133, 93%, 39%);
+  color: #fff;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #3e8e41;
+}
+.img{
+    background-color:yellow ;
+    box-shadow: yellow;
+}
+
+
